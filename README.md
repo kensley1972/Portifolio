@@ -41,7 +41,7 @@ Um pipeline completo para ingestão, processamento e armazenamento de dados do m
 * **Grau de Dificuldade:** `Avançado`
 * **Paradigma:** `ETL (Extract, Transform, Load)`, `Data Warehousing`
 * **Tecnologias Utilizadas:** `Python`, `yfinance`, `Pandas`, `Parquet`, `MySQL`, `SQL`
-* **🔗 Link para o Repositório:** [github.com/seu-usuario/data-warehouse-b3](https://github.com/seu-usuario/data-warehouse-b3)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/data-warehouse-b3](https://github.com/kensley1972/Portifolio/data-warehouse-b3)
 
 ---
 
@@ -53,30 +53,54 @@ Aplicação de desktop com interface gráfica (GUI) para consultar e plotar dado
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Programação Orientada a Objetos`, `Visualização de Dados`
 * **Tecnologias Utilizadas:** `Python`, `ttkbootstrap`, `Matplotlib`, `Pandas`, `MySQL Connector`
-* **🔗 Link para o Repositório:** [github.com/seu-usuario/stock-data-visualizer](https://github.com/seu-usuario/stock-data-visualizer)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/stock-data-visualizer](https://github.com/kensley1972/Portifolio/stock-data-visualizer)
 
 ---
 
 ### Projeto 3: Catálogo de Padrões de Projeto em Java
 
-Uma coleção prática de implementações dos principais Padrões de Projeto (Design Patterns) em Java, como Mediator, Flyweight, Singleton, Factory, entre outros. Cada padrão inclui um exemplo de caso de uso e um diagrama UML.
+Uma coleção prática de implementações dos principais Padrões de Projeto (Design Patterns) em Java, como Mediatore e Flyweight e inclui um exemplo de caso de uso.
 
 * **Classe do Projeto:** `Estudo de Conceitos de Software`
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Padrões de Projeto`, `Programação Orientada a Objetos`
 * **Tecnologias Utilizadas:** `Java`, `Maven`, `IntelliJ IDEA`
-* **🔗 Link para o Repositório:** [github.com/seu-usuario/java-design-patterns](https://github.com/seu-usuario/java-design-patterns)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/java-design-patterns](https://github.com/kensley1972/Portifolio/java-design-patterns)
 
 ---
 
 ### Projeto 4: Análise Algorítmica - Problemas Clássicos
 
-Implementação e análise de complexidade de algoritmos clássicos, como o problema do troco (Greedy e Programação Dinâmica) e o escalonamento de intervalos. O foco é comparar as abordagens e entender seus trade-offs.
+Implementação e análise de complexidade de algoritmos clássicos (Rabin-Karp, Huffman, Dijsktra, Tarjan, Programação Dinâmica) e o escalonamento de intervalos. O foco é comparar as abordagens e entender seus trade-offs.
 
 * **Classe do Projeto:** `Ciência da Computação / Algoritmos`
 * **Grau de Dificuldade:** `Intermediário`
-* **Paradigma:** `Algoritmos Gulosos (Greedy)`, `Programação Dinâmica`
-* **Tecnologias Utilizadas:** `Python` (para pseudocódigo e implementação), `LaTeX` (para documentação)
-* **🔗 Link para o Repositório:** [github.com/seu-usuario/algoritmos-classicos](https://github.com/seu-usuario/algoritmos-classicos)
+* **Paradigma:** `Grafos`,`Algoritimos de Busca`, `Algoritmos de Compressão`, `Algoritmos Gulosos`, `Programação Dinâmica`
+* **Tecnologias Utilizadas:** `Python` (para pseudocódigo e implementação)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/algoritmos-classicos](https://github.com/kensley1972/Portifolio/algoritmos-classicos)
+
+---
+
+### Projeto 5: Microsserviços 
+
+Aplicar os conceitos fundamentais de computação distribuída em Java, utilizando a tecnologia Remote Method Invocation (RMI)
+
+* **Classe do Projeto:** `Sistemas Distribuídos`
+* **Grau de Dificuldade:** `Intermediário`
+* **Paradigma:** `Java RMI`
+* **Tecnologias Utilizadas:** `Java`
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/microsservicos_RMI](https://github.com/kensley1972/Portifolio/microsservicos_RMI)
+
+---
+
+### Projeto 6: WebPage em E-Commerce  
+
+Aplicar os conceitos fundamentais de HTML, CSS, JavaScript, PHP, JQuery, bootstrap na construção de uma webpage  de uma loja virtual de e-commerce.
+
+* **Classe do Projeto:** `Front-End`
+* **Grau de Dificuldade:** `Intermediário`
+* **Paradigma:** `MySQL Connector`, `AMPPS`
+* **Tecnologias Utilizadas:** `HTML`, `CSS`, `JavaScript`, `PHP`, `JQuery`, `bootstrap`, `MySQL`
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/web_e_commerce](https://github.com/kensley1972/Portifolio/web_e_commerce)
 
 ---
