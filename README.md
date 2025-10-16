@@ -32,6 +32,12 @@ Meu objetivo é transformar dados brutos em insights de negócio valiosos e cria
 Os projetos que desenvolvi estão categorizados por classe, dificuldade e paradigma.
 
 ---
+
+
+| `Projeto`                          |  `Classe do Projeto`                          |  `Grau de Dificuladade`  |  `Paradigma`                                      |  `Tecnologia Utilizada`                         |  `Repositório`                         |
+|------------------------------------|-----------------------------------------------|--------------------------|---------------------------------------------------|-------------------------------------------------|----------------------------------------|
+| Data Warehouse de Ações da B3      |  Engenharia de Dados / Business Intelligence  |  Avançado                |  ETL (Extract, Transform, Load), Data Warehousing |  Python, yfinance, Pandas, Parquet, MySQL, SQL  |  [Ver Projeto](/data_warehouse_b3)     |
+
 ### Projeto 1: Data Warehouse de Ações da B3
 
 Um pipeline completo para ingestão, processamento e armazenamento de dados do mercado de ações brasileiro (B3), criando um Data Warehouse para análises de BI.
