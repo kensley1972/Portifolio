@@ -2,8 +2,6 @@
 Simulador interativo para planejamento de missões espaciais, com suporte a busca, compressão, grafos e algoritmos de otimização aplicados à navegação interplanetária, inventário de componentes, 
 transmissão de dados e agendamento de tarefas.
 
-O programa AstroSim encontra-se no GitHUb: https://github.com/BSI-UFU/ED_II.git
-
 🏗️ Arquitetura Geral
 O projeto é organizado em três blocos principais:
 ```
