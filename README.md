@@ -53,7 +53,7 @@ Aplicação de desktop com interface gráfica (GUI) para consultar e plotar dado
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Programação Orientada a Objetos`, `Visualização de Dados`
 * **Tecnologias Utilizadas:** `Python`, `ttkbootstrap`, `Matplotlib`, `Pandas`, `MySQL Connector`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/stock_data_visualizer](https://github.com/kensley1972/Portifolio/stock_data_visualizer)
+* **🔗 Link para o Repositório:** [Ver Projeto](/stock_data_visualizer)
 
 ---
 
@@ -65,7 +65,7 @@ Uma coleção prática de implementações dos principais Padrões de Projeto (D
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Padrões de Projeto`, `Programação Orientada a Objetos`
 * **Tecnologias Utilizadas:** `Java`, `Maven`, `IntelliJ IDEA`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/java_design_patterns](https://github.com/kensley1972/Portifolio/java_design_patterns)
+* **🔗 Link para o Repositório:** [Ver Projeto](/java_design_patterns)
 
 ---
 
@@ -77,7 +77,7 @@ Implementação e análise de complexidade de algoritmos clássicos (Rabin-Karp,
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Grafos`,`Algoritimos de Busca`, `Algoritmos de Compressão`, `Algoritmos Gulosos`, `Programação Dinâmica`
 * **Tecnologias Utilizadas:** `Python` (para pseudocódigo e implementação)
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/algoritmos_classicos](https://github.com/kensley1972/Portifolio/algoritmos_classicos)
+* **🔗 Link para o Repositório:** [Ver Projeto](/algoritmos_classicos)
 
 ---
 
@@ -89,7 +89,7 @@ Aplicar os conceitos fundamentais de computação distribuída em Java, utilizan
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Java RMI`
 * **Tecnologias Utilizadas:** `Java`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/microsservicos_RMI](https://github.com/kensley1972/Portifolio/microsservicos_RMI)
+* **🔗 Link para o Repositório:** [Ver Projeto](/microsservicos_RMI)
 
 ---
 
@@ -101,6 +101,6 @@ Aplicar os conceitos fundamentais de HTML, CSS, JavaScript, PHP, JQuery, bootstr
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `MySQL Connector`, `AMPPS`
 * **Tecnologias Utilizadas:** `HTML`, `CSS`, `JavaScript`, `PHP`, `JQuery`, `bootstrap`, `MySQL`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/web_e_commerce](https://github.com/kensley1972/Portifolio/web_e_commerce)
+* **🔗 Link para o Repositório:** [Ver Projeto](/web_e_commerce)
 
 ---
