@@ -6,7 +6,7 @@ O programa AstroSim encontra-se no GitHUb: https://github.com/BSI-UFU/ED_II.git
 
 🏗️ Arquitetura Geral
 O projeto é organizado em três blocos principais:
-
+```
 ASTROSIM_GUI/
 │
 ├── gui/ # Interfaces gráficas
@@ -37,7 +37,7 @@ ASTROSIM_GUI/
 │ └── ...
 │
 └── main.py # Ponto de entrada do sistema
-
+```
 📌 Fluxo Básico:
 
 O usuário interage com a interface gráfica (gui/).
