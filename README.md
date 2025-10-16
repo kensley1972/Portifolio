@@ -34,6 +34,7 @@ Os projetos que desenvolvi estão categorizados por classe, dificuldade e paradi
 ---
 
 | `Projeto`                          |  `Classe do Projeto`                          |  `Grau de Dificuladade`  |  `Paradigma`                                      |  `Tecnologia Utilizada`                         |  `Repositório`                         |
+|------------------------------------|-----------------------------------------------|--------------------------|---------------------------------------------------|-------------------------------------------------|----------------------------------------|
 | Data Warehouse de Ações da B3      |  Engenharia de Dados / Business Intelligence  |  Avançado                |  ETL (Extract, Transform, Load), Data Warehousing |  Python, yfinance, Pandas, Parquet, MySQL, SQL  |  [Ver Projeto](/data_warehouse_b3)     |
 
 
