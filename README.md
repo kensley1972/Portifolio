@@ -41,7 +41,7 @@ Um pipeline completo para ingestão, processamento e armazenamento de dados do m
 * **Grau de Dificuldade:** `Avançado`
 * **Paradigma:** `ETL (Extract, Transform, Load)`, `Data Warehousing`
 * **Tecnologias Utilizadas:** `Python`, `yfinance`, `Pandas`, `Parquet`, `MySQL`, `SQL`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/data_warehouse_b3](https://github.com/kensley1972/Portifolio/data_warehouse_b3)
+* **🔗 Link para o Repositório:** [Ver Atividade](../data_warehouse_b3)
 
 ---
 
