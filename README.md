@@ -41,7 +41,7 @@ Um pipeline completo para ingestão, processamento e armazenamento de dados do m
 * **Grau de Dificuldade:** `Avançado`
 * **Paradigma:** `ETL (Extract, Transform, Load)`, `Data Warehousing`
 * **Tecnologias Utilizadas:** `Python`, `yfinance`, `Pandas`, `Parquet`, `MySQL`, `SQL`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/data-warehouse-b3](https://github.com/kensley1972/Portifolio/data-warehouse-b3)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/data_warehouse_b3](https://github.com/kensley1972/Portifolio/data_warehouse_b3)
 
 ---
 
@@ -53,7 +53,7 @@ Aplicação de desktop com interface gráfica (GUI) para consultar e plotar dado
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Programação Orientada a Objetos`, `Visualização de Dados`
 * **Tecnologias Utilizadas:** `Python`, `ttkbootstrap`, `Matplotlib`, `Pandas`, `MySQL Connector`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/stock-data-visualizer](https://github.com/kensley1972/Portifolio/stock-data-visualizer)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/stock_data_visualizer](https://github.com/kensley1972/Portifolio/stock_data_visualizer)
 
 ---
 
@@ -65,7 +65,7 @@ Uma coleção prática de implementações dos principais Padrões de Projeto (D
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Padrões de Projeto`, `Programação Orientada a Objetos`
 * **Tecnologias Utilizadas:** `Java`, `Maven`, `IntelliJ IDEA`
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/java-design-patterns](https://github.com/kensley1972/Portifolio/java-design-patterns)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/java_design_patterns](https://github.com/kensley1972/Portifolio/java_design_patterns)
 
 ---
 
@@ -77,7 +77,7 @@ Implementação e análise de complexidade de algoritmos clássicos (Rabin-Karp,
 * **Grau de Dificuldade:** `Intermediário`
 * **Paradigma:** `Grafos`,`Algoritimos de Busca`, `Algoritmos de Compressão`, `Algoritmos Gulosos`, `Programação Dinâmica`
 * **Tecnologias Utilizadas:** `Python` (para pseudocódigo e implementação)
-* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/algoritmos-classicos](https://github.com/kensley1972/Portifolio/algoritmos-classicos)
+* **🔗 Link para o Repositório:** [github.com/kensley1972/Portifolio/algoritmos_classicos](https://github.com/kensley1972/Portifolio/algoritmos_classicos)
 
 ---
 
